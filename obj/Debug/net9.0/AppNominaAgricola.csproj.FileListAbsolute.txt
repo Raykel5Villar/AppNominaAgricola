@@ -39,3 +39,4 @@ C:\Users\rayke\Documents\C#\Programacion 1\Proyecto Final\AppNominaAgricola\obj\
 C:\Users\rayke\Documents\C#\Programacion 1\Proyecto Final\AppNominaAgricola\obj\Debug\net9.0\AppNominaAgricola.pdb
 C:\Users\rayke\Documents\C#\Programacion 1\Proyecto Final\AppNominaAgricola\obj\Debug\net9.0\AppNominaAgricola.genruntimeconfig.cache
 C:\Users\rayke\Documents\C#\Programacion 1\Proyecto Final\AppNominaAgricola\obj\Debug\net9.0\ref\AppNominaAgricola.dll
+C:\Users\rayke\Documents\C#\Programacion 1\Proyecto Final\AppNominaAgricola\obj\Debug\net9.0\AppNominaAgricola.sourcelink.json

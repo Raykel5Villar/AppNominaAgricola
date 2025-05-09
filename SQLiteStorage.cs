@@ -35,8 +35,7 @@ namespace AppNomina {
                 CREATE TABLE IF NOT EXISTS registrolaboral (
                     Id INTEGER PRIMARY KEY,
                     Id_Empleado INTEGER NOT NULL,
-                    Cantidad_Horas_Trabajadas REAL NOT NULL,
-                    FOREIGN KEY (Id_Empleado) REFERENCES empleados(Id)
+                    Cantidad_Horas_Trabajadas REAL NOT NULL
                 );
             ";
             command.ExecuteNonQuery();
@@ -48,8 +47,7 @@ namespace AppNomina {
                     Fecha TEXT NOT NULL,
                     Id_Empleado INTEGER NOT NULL,
                     Monto REAL NOT NULL,
-                    Cuenta_Banco TEXT NOT NULL,
-                    FOREIGN KEY (Id_Empleado) REFERENCES empleados(Id)
+                    Cuenta_Banco TEXT NOT NULL
                 );
             ";
             command.ExecuteNonQuery();
